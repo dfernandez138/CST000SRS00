@@ -2,9 +2,9 @@
 Hello World
 
 
-Class ID: *Pokemon*
+Class ID: Ferroseed
 
-SRS ID: *CST???SRS00*
+SRS ID: CST116SRS00
 
 Unresolved Issues:  None. 
 
